@@ -52,7 +52,6 @@ Still under construction...
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
 ## Stats 📊
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andresf-sierra&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresf-sierra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
