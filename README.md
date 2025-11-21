@@ -52,10 +52,6 @@ Still under construction...
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
- ## Spotify Playing 🎧
- 
-
-[![Spotify](https://andresf-sierra.vercel.app/api/spotify)](https://open.spotify.com/playlist/4BjsXcHycnyDM1EwJ1sshY?si=86ceb0022fff4487)
 
 ## Stats 📊
 
